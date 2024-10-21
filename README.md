@@ -1,4 +1,4 @@
-### StudyOptima Repository
+# StudyOptima Repository
 
 Welcome to **StudyOptima**, the award-winning academic time management platform that secured **first place in the Big Digital Pitch Competition 2023**!
 
